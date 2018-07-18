@@ -1,0 +1,5 @@
+[user]
+	email = damian.fulmer@gmail.com
+	name = mrloafbot
+[http]
+	postBuffer = 52428800
