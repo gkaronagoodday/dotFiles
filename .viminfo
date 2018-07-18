@@ -80,9 +80,9 @@ $
 "0	LINE	0
 	rsync -az ~/.zshrc $DOTGIT
 |3,0,0,1,1,0,1531883078,"rsync -az ~/.zshrc $DOTGIT"
-""1	LINE	0
+"1	LINE	0
 	rsync -az ~/.zshrc $DOTGIT
-|3,1,1,1,1,0,1531883086,"rsync -az ~/.zshrc $DOTGIT"
+|3,0,1,1,1,0,1531883086,"rsync -az ~/.zshrc $DOTGIT"
 "2	LINE	0
 	echo $(date +%y.%m.%d-%H:%M:%S)
 |3,0,2,1,1,0,1531881892,"echo $(date +%y.%m.%d-%H:%M:%S)"
@@ -113,37 +113,47 @@ $
 "j	CHAR	0
 	j
 |3,0,19,0,1,0,1531882094,"j"
-"-	CHAR	0
-	t
-|3,0,36,0,1,0,1531883072,"t"
+""-	CHAR	0
+	s
+|3,1,36,0,1,0,1531883160,"s"
 
 # File marks:
-'0  36  15  ~/Scripts/dotfiles.zsh
-|4,48,36,15,1531883126,"~/Scripts/dotfiles.zsh"
-'1  30  8  ~/Scripts/dotfiles.zsh
-|4,49,30,8,1531882228,"~/Scripts/dotfiles.zsh"
-'2  14  8  ~/Scripts/dotfiles.zsh
-|4,50,14,8,1531882228,"~/Scripts/dotfiles.zsh"
-'3  32  0  ~/Scripts/dotfiles.zsh
-|4,51,32,0,1531882129,"~/Scripts/dotfiles.zsh"
-'4  31  0  ~/Scripts/dotfiles.zsh
-|4,52,31,0,1531882129,"~/Scripts/dotfiles.zsh"
-'5  16  0  ~/Scripts/dotfiles.zsh
-|4,53,16,0,1531882129,"~/Scripts/dotfiles.zsh"
-'6  15  0  ~/Scripts/dotfiles.zsh
-|4,54,15,0,1531882129,"~/Scripts/dotfiles.zsh"
-'7  3  21  ~/Scripts/dotfiles.zsh
-|4,55,3,21,1531882023,"~/Scripts/dotfiles.zsh"
-'8  3  21  ~/Scripts/dotfiles.zsh
-|4,56,3,21,1531882023,"~/Scripts/dotfiles.zsh"
-'9  3  21  ~/Scripts/dotfiles.zsh
-|4,57,3,21,1531882023,"~/Scripts/dotfiles.zsh"
+'0  22  21  ~/Scripts/dotfiles.zsh
+|4,48,22,21,1531883167,"~/Scripts/dotfiles.zsh"
+'1  36  15  ~/Scripts/dotfiles.zsh
+|4,49,36,15,1531883126,"~/Scripts/dotfiles.zsh"
+'2  36  15  ~/Scripts/dotfiles.zsh
+|4,50,36,15,1531883126,"~/Scripts/dotfiles.zsh"
+'3  30  8  ~/Scripts/dotfiles.zsh
+|4,51,30,8,1531882228,"~/Scripts/dotfiles.zsh"
+'4  14  8  ~/Scripts/dotfiles.zsh
+|4,52,14,8,1531882228,"~/Scripts/dotfiles.zsh"
+'5  30  8  ~/Scripts/dotfiles.zsh
+|4,53,30,8,1531882228,"~/Scripts/dotfiles.zsh"
+'6  14  8  ~/Scripts/dotfiles.zsh
+|4,54,14,8,1531882228,"~/Scripts/dotfiles.zsh"
+'7  32  0  ~/Scripts/dotfiles.zsh
+|4,55,32,0,1531882129,"~/Scripts/dotfiles.zsh"
+'8  31  0  ~/Scripts/dotfiles.zsh
+|4,56,31,0,1531882129,"~/Scripts/dotfiles.zsh"
+'9  16  0  ~/Scripts/dotfiles.zsh
+|4,57,16,0,1531882129,"~/Scripts/dotfiles.zsh"
 
 # Jumplist (newest first):
+-'  22  21  ~/Scripts/dotfiles.zsh
+|4,39,22,21,1531883167,"~/Scripts/dotfiles.zsh"
+-'  1  0  ~/Scripts/dotfiles.zsh
+|4,39,1,0,1531883153,"~/Scripts/dotfiles.zsh"
+-'  36  15  ~/Scripts/dotfiles.zsh
+|4,39,36,15,1531883126,"~/Scripts/dotfiles.zsh"
 -'  36  15  ~/Scripts/dotfiles.zsh
 |4,39,36,15,1531883126,"~/Scripts/dotfiles.zsh"
 -'  1  0  ~/Scripts/dotfiles.zsh
 |4,39,1,0,1531882472,"~/Scripts/dotfiles.zsh"
+-'  30  8  ~/Scripts/dotfiles.zsh
+|4,39,30,8,1531882228,"~/Scripts/dotfiles.zsh"
+-'  14  8  ~/Scripts/dotfiles.zsh
+|4,39,14,8,1531882228,"~/Scripts/dotfiles.zsh"
 -'  30  8  ~/Scripts/dotfiles.zsh
 |4,39,30,8,1531882228,"~/Scripts/dotfiles.zsh"
 -'  14  8  ~/Scripts/dotfiles.zsh
@@ -158,8 +168,18 @@ $
 |4,39,16,0,1531882129,"~/Scripts/dotfiles.zsh"
 -'  15  0  ~/Scripts/dotfiles.zsh
 |4,39,15,0,1531882129,"~/Scripts/dotfiles.zsh"
+-'  32  0  ~/Scripts/dotfiles.zsh
+|4,39,32,0,1531882129,"~/Scripts/dotfiles.zsh"
+-'  31  0  ~/Scripts/dotfiles.zsh
+|4,39,31,0,1531882129,"~/Scripts/dotfiles.zsh"
+-'  16  0  ~/Scripts/dotfiles.zsh
+|4,39,16,0,1531882129,"~/Scripts/dotfiles.zsh"
+-'  15  0  ~/Scripts/dotfiles.zsh
+|4,39,15,0,1531882129,"~/Scripts/dotfiles.zsh"
 -'  1  0  ~/Scripts/dotfiles.zsh
 |4,39,1,0,1531882041,"~/Scripts/dotfiles.zsh"
+-'  3  21  ~/Scripts/dotfiles.zsh
+|4,39,3,21,1531882023,"~/Scripts/dotfiles.zsh"
 -'  3  21  ~/Scripts/dotfiles.zsh
 |4,39,3,21,1531882023,"~/Scripts/dotfiles.zsh"
 -'  3  21  ~/Scripts/dotfiles.zsh
@@ -188,12 +208,32 @@ $
 |4,39,19,25,1531881936,"~/Scripts/dotfiles.zsh"
 -'  17  25  ~/Scripts/dotfiles.zsh
 |4,39,17,25,1531881936,"~/Scripts/dotfiles.zsh"
+-'  34  25  ~/Scripts/dotfiles.zsh
+|4,39,34,25,1531881936,"~/Scripts/dotfiles.zsh"
+-'  35  25  ~/Scripts/dotfiles.zsh
+|4,39,35,25,1531881936,"~/Scripts/dotfiles.zsh"
+-'  33  25  ~/Scripts/dotfiles.zsh
+|4,39,33,25,1531881936,"~/Scripts/dotfiles.zsh"
+-'  20  25  ~/Scripts/dotfiles.zsh
+|4,39,20,25,1531881936,"~/Scripts/dotfiles.zsh"
+-'  18  25  ~/Scripts/dotfiles.zsh
+|4,39,18,25,1531881936,"~/Scripts/dotfiles.zsh"
+-'  19  25  ~/Scripts/dotfiles.zsh
+|4,39,19,25,1531881936,"~/Scripts/dotfiles.zsh"
+-'  17  25  ~/Scripts/dotfiles.zsh
+|4,39,17,25,1531881936,"~/Scripts/dotfiles.zsh"
 -'  17  25  ~/Scripts/dotfiles.zsh
 |4,39,17,25,1531881936,"~/Scripts/dotfiles.zsh"
 -'  17  25  ~/Scripts/dotfiles.zsh
 |4,39,17,25,1531881936,"~/Scripts/dotfiles.zsh"
 -'  1  0  ~/Scripts/dotfiles.zsh
 |4,39,1,0,1531881608,"~/Scripts/dotfiles.zsh"
+-'  27  9  ~/Scripts/dotfiles.zsh
+|4,39,27,9,1531881565,"~/Scripts/dotfiles.zsh"
+-'  11  9  ~/Scripts/dotfiles.zsh
+|4,39,11,9,1531881565,"~/Scripts/dotfiles.zsh"
+-'  8  9  ~/Scripts/dotfiles.zsh
+|4,39,8,9,1531881565,"~/Scripts/dotfiles.zsh"
 -'  27  9  ~/Scripts/dotfiles.zsh
 |4,39,27,9,1531881565,"~/Scripts/dotfiles.zsh"
 -'  18  9  ~/Scripts/dotfiles.zsh
@@ -220,6 +260,20 @@ $
 |4,39,8,9,1531881565,"~/Scripts/dotfiles.zsh"
 -'  1  0  ~/Scripts/dotfiles.zsh
 |4,39,1,0,1531881276,"~/Scripts/dotfiles.zsh"
+-'  38  0  ~/Scripts/dotfiles.zsh
+|4,39,38,0,1531881230,"~/Scripts/dotfiles.zsh"
+-'  29  0  ~/Scripts/dotfiles.zsh
+|4,39,29,0,1531881230,"~/Scripts/dotfiles.zsh"
+-'  28  0  ~/Scripts/dotfiles.zsh
+|4,39,28,0,1531881230,"~/Scripts/dotfiles.zsh"
+-'  37  0  ~/Scripts/dotfiles.zsh
+|4,39,37,0,1531881230,"~/Scripts/dotfiles.zsh"
+-'  13  0  ~/Scripts/dotfiles.zsh
+|4,39,13,0,1531881230,"~/Scripts/dotfiles.zsh"
+-'  12  0  ~/Scripts/dotfiles.zsh
+|4,39,12,0,1531881230,"~/Scripts/dotfiles.zsh"
+-'  21  0  ~/Scripts/dotfiles.zsh
+|4,39,21,0,1531881230,"~/Scripts/dotfiles.zsh"
 -'  38  0  ~/Scripts/dotfiles.zsh
 |4,39,38,0,1531881230,"~/Scripts/dotfiles.zsh"
 -'  29  0  ~/Scripts/dotfiles.zsh
@@ -286,68 +340,14 @@ $
 |4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
 -'  3  47  ~/Scripts/Backup/freenas.zsh
 |4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
--'  3  47  ~/Scripts/Backup/freenas.zsh
-|4,39,3,47,1531801279,"~/Scripts/Backup/freenas.zsh"
 
 # History of marks within files (newest to oldest):
 
 > ~/Scripts/dotfiles.zsh
-	*	1531883123	0
-	"	36	15
-	^	24	32
-	.	24	31
+	*	1531883166	0
+	"	22	21
+	^	22	22
+	.	22	22
 	+	34	13
 	+	27	9
 	+	3	28
@@ -384,6 +384,7 @@ $
 	+	24	0
 	+	25	0
 	+	24	31
+	+	22	22
 
 > /usr/share/vim/vim81/doc/help.txt
 	*	1531882102	0
