@@ -103,5 +103,6 @@ alias pull="~/Scripts/Backup/Backup_pull.zsh"
 alias freenas="~/Scripts/freenas_start.zsh"
 alias mounthome="~/Scripts/athome_mount.zsh"
 alias umounthome="~/Scripts/athome_umount.zsh"
+alias dotfiles="~/Scripts/dotfiles.zsh"
 alias cm='cmatrix'
 alias pipes='pipes.sh'
