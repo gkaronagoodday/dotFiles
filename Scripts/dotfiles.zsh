@@ -37,6 +37,8 @@ git commit -m $(date +%y.%m.%d-%H:%M:%S)
 
 ## git pushes
 
+git push github master
+
 ## return to original path
 cd $STARTPATH
 

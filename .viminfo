@@ -118,36 +118,66 @@ $
 |3,0,36,0,1,0,1531883358,"c"
 
 # File marks:
-'0  42  0  ~/Scripts/dotfiles.zsh
-|4,48,42,0,1531883407,"~/Scripts/dotfiles.zsh"
-'1  21  13  ~/Scripts/dotfiles.zsh
-|4,49,21,13,1531883254,"~/Scripts/dotfiles.zsh"
-'2  21  13  ~/Scripts/dotfiles.zsh
-|4,50,21,13,1531883254,"~/Scripts/dotfiles.zsh"
-'3  22  21  ~/Scripts/dotfiles.zsh
-|4,51,22,21,1531883167,"~/Scripts/dotfiles.zsh"
-'4  22  21  ~/Scripts/dotfiles.zsh
-|4,52,22,21,1531883167,"~/Scripts/dotfiles.zsh"
-'5  22  21  ~/Scripts/dotfiles.zsh
-|4,53,22,21,1531883167,"~/Scripts/dotfiles.zsh"
-'6  22  21  ~/Scripts/dotfiles.zsh
-|4,54,22,21,1531883167,"~/Scripts/dotfiles.zsh"
-'7  40  15  ~/Scripts/dotfiles.zsh
-|4,55,40,15,1531883126,"~/Scripts/dotfiles.zsh"
-'8  40  15  ~/Scripts/dotfiles.zsh
-|4,56,40,15,1531883126,"~/Scripts/dotfiles.zsh"
-'9  40  15  ~/Scripts/dotfiles.zsh
-|4,57,40,15,1531883126,"~/Scripts/dotfiles.zsh"
+'0  9  42  ~/Projects/dotFiles/README.md
+|4,48,9,42,1531884108,"~/Projects/dotFiles/README.md"
+'1  41  0  ~/Scripts/dotfiles.zsh
+|4,49,41,0,1531883972,"~/Scripts/dotfiles.zsh"
+'2  44  0  ~/Scripts/dotfiles.zsh
+|4,50,44,0,1531883407,"~/Scripts/dotfiles.zsh"
+'3  42  0  ~/Scripts/dotfiles.zsh
+|4,51,42,0,1531883407,"~/Scripts/dotfiles.zsh"
+'4  21  13  ~/Scripts/dotfiles.zsh
+|4,52,21,13,1531883254,"~/Scripts/dotfiles.zsh"
+'5  21  13  ~/Scripts/dotfiles.zsh
+|4,53,21,13,1531883254,"~/Scripts/dotfiles.zsh"
+'6  21  13  ~/Scripts/dotfiles.zsh
+|4,54,21,13,1531883254,"~/Scripts/dotfiles.zsh"
+'7  21  13  ~/Scripts/dotfiles.zsh
+|4,55,21,13,1531883254,"~/Scripts/dotfiles.zsh"
+'8  22  21  ~/Scripts/dotfiles.zsh
+|4,56,22,21,1531883167,"~/Scripts/dotfiles.zsh"
+'9  22  21  ~/Scripts/dotfiles.zsh
+|4,57,22,21,1531883167,"~/Scripts/dotfiles.zsh"
 
 # Jumplist (newest first):
+-'  9  42  ~/Projects/dotFiles/README.md
+|4,39,9,42,1531884108,"~/Projects/dotFiles/README.md"
+-'  1  0  ~/Projects/dotFiles/README.md
+|4,39,1,0,1531884011,"~/Projects/dotFiles/README.md"
+-'  41  0  ~/Scripts/dotfiles.zsh
+|4,39,41,0,1531883972,"~/Scripts/dotfiles.zsh"
+-'  41  0  ~/Scripts/dotfiles.zsh
+|4,39,41,0,1531883972,"~/Scripts/dotfiles.zsh"
+-'  1  0  ~/Scripts/dotfiles.zsh
+|4,39,1,0,1531883949,"~/Scripts/dotfiles.zsh"
+-'  1  0  ~/Scripts/dotfiles.zsh
+|4,39,1,0,1531883949,"~/Scripts/dotfiles.zsh"
+-'  44  0  ~/Scripts/dotfiles.zsh
+|4,39,44,0,1531883407,"~/Scripts/dotfiles.zsh"
 -'  42  0  ~/Scripts/dotfiles.zsh
 |4,39,42,0,1531883407,"~/Scripts/dotfiles.zsh"
+-'  44  0  ~/Scripts/dotfiles.zsh
+|4,39,44,0,1531883407,"~/Scripts/dotfiles.zsh"
+-'  42  0  ~/Scripts/dotfiles.zsh
+|4,39,42,0,1531883407,"~/Scripts/dotfiles.zsh"
+-'  1  0  ~/Scripts/dotfiles.zsh
+|4,39,1,0,1531883318,"~/Scripts/dotfiles.zsh"
 -'  1  0  ~/Scripts/dotfiles.zsh
 |4,39,1,0,1531883318,"~/Scripts/dotfiles.zsh"
 -'  21  13  ~/Scripts/dotfiles.zsh
 |4,39,21,13,1531883254,"~/Scripts/dotfiles.zsh"
 -'  21  13  ~/Scripts/dotfiles.zsh
 |4,39,21,13,1531883254,"~/Scripts/dotfiles.zsh"
+-'  21  13  ~/Scripts/dotfiles.zsh
+|4,39,21,13,1531883254,"~/Scripts/dotfiles.zsh"
+-'  21  13  ~/Scripts/dotfiles.zsh
+|4,39,21,13,1531883254,"~/Scripts/dotfiles.zsh"
+-'  21  13  ~/Scripts/dotfiles.zsh
+|4,39,21,13,1531883254,"~/Scripts/dotfiles.zsh"
+-'  21  13  ~/Scripts/dotfiles.zsh
+|4,39,21,13,1531883254,"~/Scripts/dotfiles.zsh"
+-'  1  0  ~/Scripts/dotfiles.zsh
+|4,39,1,0,1531883236,"~/Scripts/dotfiles.zsh"
 -'  1  0  ~/Scripts/dotfiles.zsh
 |4,39,1,0,1531883236,"~/Scripts/dotfiles.zsh"
 -'  22  21  ~/Scripts/dotfiles.zsh
@@ -156,8 +186,36 @@ $
 |4,39,22,21,1531883167,"~/Scripts/dotfiles.zsh"
 -'  22  21  ~/Scripts/dotfiles.zsh
 |4,39,22,21,1531883167,"~/Scripts/dotfiles.zsh"
+-'  22  21  ~/Scripts/dotfiles.zsh
+|4,39,22,21,1531883167,"~/Scripts/dotfiles.zsh"
+-'  22  21  ~/Scripts/dotfiles.zsh
+|4,39,22,21,1531883167,"~/Scripts/dotfiles.zsh"
+-'  22  21  ~/Scripts/dotfiles.zsh
+|4,39,22,21,1531883167,"~/Scripts/dotfiles.zsh"
+-'  22  21  ~/Scripts/dotfiles.zsh
+|4,39,22,21,1531883167,"~/Scripts/dotfiles.zsh"
+-'  22  21  ~/Scripts/dotfiles.zsh
+|4,39,22,21,1531883167,"~/Scripts/dotfiles.zsh"
 -'  1  0  ~/Scripts/dotfiles.zsh
 |4,39,1,0,1531883153,"~/Scripts/dotfiles.zsh"
+-'  1  0  ~/Scripts/dotfiles.zsh
+|4,39,1,0,1531883153,"~/Scripts/dotfiles.zsh"
+-'  42  15  ~/Scripts/dotfiles.zsh
+|4,39,42,15,1531883126,"~/Scripts/dotfiles.zsh"
+-'  36  15  ~/Scripts/dotfiles.zsh
+|4,39,36,15,1531883126,"~/Scripts/dotfiles.zsh"
+-'  40  15  ~/Scripts/dotfiles.zsh
+|4,39,40,15,1531883126,"~/Scripts/dotfiles.zsh"
+-'  36  15  ~/Scripts/dotfiles.zsh
+|4,39,36,15,1531883126,"~/Scripts/dotfiles.zsh"
+-'  36  15  ~/Scripts/dotfiles.zsh
+|4,39,36,15,1531883126,"~/Scripts/dotfiles.zsh"
+-'  36  15  ~/Scripts/dotfiles.zsh
+|4,39,36,15,1531883126,"~/Scripts/dotfiles.zsh"
+-'  42  15  ~/Scripts/dotfiles.zsh
+|4,39,42,15,1531883126,"~/Scripts/dotfiles.zsh"
+-'  36  15  ~/Scripts/dotfiles.zsh
+|4,39,36,15,1531883126,"~/Scripts/dotfiles.zsh"
 -'  40  15  ~/Scripts/dotfiles.zsh
 |4,39,40,15,1531883126,"~/Scripts/dotfiles.zsh"
 -'  36  15  ~/Scripts/dotfiles.zsh
@@ -168,6 +226,36 @@ $
 |4,39,36,15,1531883126,"~/Scripts/dotfiles.zsh"
 -'  1  0  ~/Scripts/dotfiles.zsh
 |4,39,1,0,1531882472,"~/Scripts/dotfiles.zsh"
+-'  1  0  ~/Scripts/dotfiles.zsh
+|4,39,1,0,1531882472,"~/Scripts/dotfiles.zsh"
+-'  34  8  ~/Scripts/dotfiles.zsh
+|4,39,34,8,1531882228,"~/Scripts/dotfiles.zsh"
+-'  14  8  ~/Scripts/dotfiles.zsh
+|4,39,14,8,1531882228,"~/Scripts/dotfiles.zsh"
+-'  30  8  ~/Scripts/dotfiles.zsh
+|4,39,30,8,1531882228,"~/Scripts/dotfiles.zsh"
+-'  34  8  ~/Scripts/dotfiles.zsh
+|4,39,34,8,1531882228,"~/Scripts/dotfiles.zsh"
+-'  14  8  ~/Scripts/dotfiles.zsh
+|4,39,14,8,1531882228,"~/Scripts/dotfiles.zsh"
+-'  30  8  ~/Scripts/dotfiles.zsh
+|4,39,30,8,1531882228,"~/Scripts/dotfiles.zsh"
+-'  14  8  ~/Scripts/dotfiles.zsh
+|4,39,14,8,1531882228,"~/Scripts/dotfiles.zsh"
+-'  30  8  ~/Scripts/dotfiles.zsh
+|4,39,30,8,1531882228,"~/Scripts/dotfiles.zsh"
+-'  14  8  ~/Scripts/dotfiles.zsh
+|4,39,14,8,1531882228,"~/Scripts/dotfiles.zsh"
+-'  30  8  ~/Scripts/dotfiles.zsh
+|4,39,30,8,1531882228,"~/Scripts/dotfiles.zsh"
+-'  14  8  ~/Scripts/dotfiles.zsh
+|4,39,14,8,1531882228,"~/Scripts/dotfiles.zsh"
+-'  34  8  ~/Scripts/dotfiles.zsh
+|4,39,34,8,1531882228,"~/Scripts/dotfiles.zsh"
+-'  14  8  ~/Scripts/dotfiles.zsh
+|4,39,14,8,1531882228,"~/Scripts/dotfiles.zsh"
+-'  30  8  ~/Scripts/dotfiles.zsh
+|4,39,30,8,1531882228,"~/Scripts/dotfiles.zsh"
 -'  34  8  ~/Scripts/dotfiles.zsh
 |4,39,34,8,1531882228,"~/Scripts/dotfiles.zsh"
 -'  14  8  ~/Scripts/dotfiles.zsh
@@ -186,6 +274,18 @@ $
 |4,39,14,8,1531882228,"~/Scripts/dotfiles.zsh"
 -'  1  0  ~/Scripts/dotfiles.zsh
 |4,39,1,0,1531882214,"~/Scripts/dotfiles.zsh"
+-'  1  0  ~/Scripts/dotfiles.zsh
+|4,39,1,0,1531882214,"~/Scripts/dotfiles.zsh"
+-'  35  0  ~/Scripts/dotfiles.zsh
+|4,39,35,0,1531882129,"~/Scripts/dotfiles.zsh"
+-'  16  0  ~/Scripts/dotfiles.zsh
+|4,39,16,0,1531882129,"~/Scripts/dotfiles.zsh"
+-'  15  0  ~/Scripts/dotfiles.zsh
+|4,39,15,0,1531882129,"~/Scripts/dotfiles.zsh"
+-'  32  0  ~/Scripts/dotfiles.zsh
+|4,39,32,0,1531882129,"~/Scripts/dotfiles.zsh"
+-'  31  0  ~/Scripts/dotfiles.zsh
+|4,39,31,0,1531882129,"~/Scripts/dotfiles.zsh"
 -'  36  0  ~/Scripts/dotfiles.zsh
 |4,39,36,0,1531882129,"~/Scripts/dotfiles.zsh"
 -'  35  0  ~/Scripts/dotfiles.zsh
@@ -218,136 +318,44 @@ $
 |4,39,16,0,1531882129,"~/Scripts/dotfiles.zsh"
 -'  15  0  ~/Scripts/dotfiles.zsh
 |4,39,15,0,1531882129,"~/Scripts/dotfiles.zsh"
--'  1  0  ~/Scripts/dotfiles.zsh
-|4,39,1,0,1531882041,"~/Scripts/dotfiles.zsh"
--'  3  21  ~/Scripts/dotfiles.zsh
-|4,39,3,21,1531882023,"~/Scripts/dotfiles.zsh"
--'  3  21  ~/Scripts/dotfiles.zsh
-|4,39,3,21,1531882023,"~/Scripts/dotfiles.zsh"
--'  3  21  ~/Scripts/dotfiles.zsh
-|4,39,3,21,1531882023,"~/Scripts/dotfiles.zsh"
--'  3  21  ~/Scripts/dotfiles.zsh
-|4,39,3,21,1531882023,"~/Scripts/dotfiles.zsh"
--'  3  21  ~/Scripts/dotfiles.zsh
-|4,39,3,21,1531882023,"~/Scripts/dotfiles.zsh"
--'  3  21  ~/Scripts/dotfiles.zsh
-|4,39,3,21,1531882023,"~/Scripts/dotfiles.zsh"
--'  3  21  ~/Scripts/dotfiles.zsh
-|4,39,3,21,1531882023,"~/Scripts/dotfiles.zsh"
--'  1  0  ~/Scripts/dotfiles.zsh
-|4,39,1,0,1531882016,"~/Scripts/dotfiles.zsh"
--'  3  7  ~/Scripts/dotfiles.zsh
-|4,39,3,7,1531881984,"~/Scripts/dotfiles.zsh"
--'  1  0  ~/Scripts/dotfiles.zsh
-|4,39,1,0,1531881965,"~/Scripts/dotfiles.zsh"
--'  38  25  ~/Scripts/dotfiles.zsh
-|4,39,38,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  39  25  ~/Scripts/dotfiles.zsh
-|4,39,39,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  37  25  ~/Scripts/dotfiles.zsh
-|4,39,37,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  20  25  ~/Scripts/dotfiles.zsh
-|4,39,20,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  18  25  ~/Scripts/dotfiles.zsh
-|4,39,18,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  19  25  ~/Scripts/dotfiles.zsh
-|4,39,19,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  17  25  ~/Scripts/dotfiles.zsh
-|4,39,17,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  34  25  ~/Scripts/dotfiles.zsh
-|4,39,34,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  35  25  ~/Scripts/dotfiles.zsh
-|4,39,35,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  33  25  ~/Scripts/dotfiles.zsh
-|4,39,33,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  20  25  ~/Scripts/dotfiles.zsh
-|4,39,20,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  18  25  ~/Scripts/dotfiles.zsh
-|4,39,18,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  19  25  ~/Scripts/dotfiles.zsh
-|4,39,19,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  17  25  ~/Scripts/dotfiles.zsh
-|4,39,17,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  34  25  ~/Scripts/dotfiles.zsh
-|4,39,34,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  35  25  ~/Scripts/dotfiles.zsh
-|4,39,35,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  33  25  ~/Scripts/dotfiles.zsh
-|4,39,33,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  20  25  ~/Scripts/dotfiles.zsh
-|4,39,20,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  18  25  ~/Scripts/dotfiles.zsh
-|4,39,18,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  19  25  ~/Scripts/dotfiles.zsh
-|4,39,19,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  17  25  ~/Scripts/dotfiles.zsh
-|4,39,17,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  34  25  ~/Scripts/dotfiles.zsh
-|4,39,34,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  35  25  ~/Scripts/dotfiles.zsh
-|4,39,35,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  33  25  ~/Scripts/dotfiles.zsh
-|4,39,33,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  20  25  ~/Scripts/dotfiles.zsh
-|4,39,20,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  18  25  ~/Scripts/dotfiles.zsh
-|4,39,18,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  19  25  ~/Scripts/dotfiles.zsh
-|4,39,19,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  17  25  ~/Scripts/dotfiles.zsh
-|4,39,17,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  17  25  ~/Scripts/dotfiles.zsh
-|4,39,17,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  17  25  ~/Scripts/dotfiles.zsh
-|4,39,17,25,1531881936,"~/Scripts/dotfiles.zsh"
--'  1  0  ~/Scripts/dotfiles.zsh
-|4,39,1,0,1531881608,"~/Scripts/dotfiles.zsh"
--'  31  9  ~/Scripts/dotfiles.zsh
-|4,39,31,9,1531881565,"~/Scripts/dotfiles.zsh"
--'  11  9  ~/Scripts/dotfiles.zsh
-|4,39,11,9,1531881565,"~/Scripts/dotfiles.zsh"
--'  8  9  ~/Scripts/dotfiles.zsh
-|4,39,8,9,1531881565,"~/Scripts/dotfiles.zsh"
--'  27  9  ~/Scripts/dotfiles.zsh
-|4,39,27,9,1531881565,"~/Scripts/dotfiles.zsh"
--'  11  9  ~/Scripts/dotfiles.zsh
-|4,39,11,9,1531881565,"~/Scripts/dotfiles.zsh"
--'  8  9  ~/Scripts/dotfiles.zsh
-|4,39,8,9,1531881565,"~/Scripts/dotfiles.zsh"
--'  27  9  ~/Scripts/dotfiles.zsh
-|4,39,27,9,1531881565,"~/Scripts/dotfiles.zsh"
--'  11  9  ~/Scripts/dotfiles.zsh
-|4,39,11,9,1531881565,"~/Scripts/dotfiles.zsh"
--'  8  9  ~/Scripts/dotfiles.zsh
-|4,39,8,9,1531881565,"~/Scripts/dotfiles.zsh"
--'  27  9  ~/Scripts/dotfiles.zsh
-|4,39,27,9,1531881565,"~/Scripts/dotfiles.zsh"
--'  18  9  ~/Scripts/dotfiles.zsh
-|4,39,18,9,1531881565,"~/Scripts/dotfiles.zsh"
--'  11  9  ~/Scripts/dotfiles.zsh
-|4,39,11,9,1531881565,"~/Scripts/dotfiles.zsh"
--'  8  9  ~/Scripts/dotfiles.zsh
-|4,39,8,9,1531881565,"~/Scripts/dotfiles.zsh"
--'  11  9  ~/Scripts/dotfiles.zsh
-|4,39,11,9,1531881565,"~/Scripts/dotfiles.zsh"
--'  8  9  ~/Scripts/dotfiles.zsh
-|4,39,8,9,1531881565,"~/Scripts/dotfiles.zsh"
--'  11  9  ~/Scripts/dotfiles.zsh
-|4,39,11,9,1531881565,"~/Scripts/dotfiles.zsh"
--'  8  9  ~/Scripts/dotfiles.zsh
-|4,39,8,9,1531881565,"~/Scripts/dotfiles.zsh"
--'  11  9  ~/Scripts/dotfiles.zsh
-|4,39,11,9,1531881565,"~/Scripts/dotfiles.zsh"
--'  8  9  ~/Scripts/dotfiles.zsh
-|4,39,8,9,1531881565,"~/Scripts/dotfiles.zsh"
+-'  35  0  ~/Scripts/dotfiles.zsh
+|4,39,35,0,1531882129,"~/Scripts/dotfiles.zsh"
+-'  16  0  ~/Scripts/dotfiles.zsh
+|4,39,16,0,1531882129,"~/Scripts/dotfiles.zsh"
+-'  15  0  ~/Scripts/dotfiles.zsh
+|4,39,15,0,1531882129,"~/Scripts/dotfiles.zsh"
+-'  32  0  ~/Scripts/dotfiles.zsh
+|4,39,32,0,1531882129,"~/Scripts/dotfiles.zsh"
+-'  31  0  ~/Scripts/dotfiles.zsh
+|4,39,31,0,1531882129,"~/Scripts/dotfiles.zsh"
+-'  36  0  ~/Scripts/dotfiles.zsh
+|4,39,36,0,1531882129,"~/Scripts/dotfiles.zsh"
+-'  35  0  ~/Scripts/dotfiles.zsh
+|4,39,35,0,1531882129,"~/Scripts/dotfiles.zsh"
+-'  16  0  ~/Scripts/dotfiles.zsh
+|4,39,16,0,1531882129,"~/Scripts/dotfiles.zsh"
+-'  15  0  ~/Scripts/dotfiles.zsh
+|4,39,15,0,1531882129,"~/Scripts/dotfiles.zsh"
+-'  32  0  ~/Scripts/dotfiles.zsh
+|4,39,32,0,1531882129,"~/Scripts/dotfiles.zsh"
+-'  31  0  ~/Scripts/dotfiles.zsh
+|4,39,31,0,1531882129,"~/Scripts/dotfiles.zsh"
 
 # History of marks within files (newest to oldest):
 
+> ~/Projects/dotFiles/README.md
+	*	1531884107	0
+	"	9	42
+	^	9	43
+	.	9	42
+	+	1	33
+	+	9	42
+
 > ~/Scripts/dotfiles.zsh
-	*	1531883404	0
-	"	42	0
-	^	32	0
-	.	31	0
+	*	1531883971	0
+	"	41	0
+	^	41	0
+	.	40	22
 	+	38	13
 	+	31	9
 	+	3	28
@@ -358,8 +366,8 @@ $
 	+	33	9
 	+	35	39
 	+	37	0
-	+	41	13
-	+	40	25
+	+	43	13
+	+	42	25
 	+	3	21
 	+	31	10
 	+	35	0
@@ -392,6 +400,7 @@ $
 	+	28	27
 	+	33	0
 	+	31	0
+	+	40	22
 
 > /usr/share/vim/vim81/doc/help.txt
 	*	1531882102	0
