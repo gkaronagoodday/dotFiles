@@ -83,9 +83,9 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
-""0	CHAR	0
+"0	CHAR	0
 	 
-|3,1,0,0,1,0,1533183061," "
+|3,0,0,0,1,0,1533183061," "
 "1	LINE	0
 	# alias ohmyzsh="mate ~/.oh-my-zsh"
 |3,0,1,1,1,0,1532479030,"# alias ohmyzsh=\"mate ~/.oh-my-zsh\""
@@ -123,35 +123,53 @@ $
 "z	CHAR	0
 	jjjjj''QZ€kbvisual
 |3,0,35,0,1,0,1531885769,"jjjjj''QZ€kbvisual"
-"-	CHAR	0
-	 
-|3,0,36,0,1,0,1532479470," "
+""-	CHAR	0
+	t
+|3,1,36,0,1,0,1533348865,"t"
 
 # File marks:
-'0  98  15  ~/.zshrc
-|4,48,98,15,1533185303,"~/.zshrc"
-'1  15  0  ~/Projects/Memoria/notes
-|4,49,15,0,1533184331,"~/Projects/Memoria/notes"
-'2  15  0  ~/Projects/Memoria/notes
-|4,50,15,0,1533184206,"~/Projects/Memoria/notes"
-'3  25  0  ~/Projects/Memoria/notes
-|4,51,25,0,1533183996,"~/Projects/Memoria/notes"
-'4  25  0  ~/Projects/Memoria/notes
-|4,52,25,0,1533183996,"~/Projects/Memoria/notes"
-'5  25  0  ~/Projects/Memoria/notes
-|4,53,25,0,1533183996,"~/Projects/Memoria/notes"
-'6  25  0  ~/Projects/Memoria/notes
-|4,54,25,0,1533183996,"~/Projects/Memoria/notes"
-'7  1  0  ~/.vimrc
-|4,55,1,0,1533183776,"~/.vimrc"
-'8  6  25  ~/.vimrc
-|4,56,6,25,1533183770,"~/.vimrc"
-'9  6  25  ~/.vimrc
-|4,57,6,25,1533183770,"~/.vimrc"
+'0  108  13  ~/.zshrc
+|4,48,108,13,1533348941,"~/.zshrc"
+'1  5  13  ~/.zshrc
+|4,49,5,13,1533348826,"~/.zshrc"
+'2  5  13  ~/.zshrc
+|4,50,5,13,1533348826,"~/.zshrc"
+'3  98  15  ~/.zshrc
+|4,51,98,15,1533185303,"~/.zshrc"
+'4  98  15  ~/.zshrc
+|4,52,98,15,1533185303,"~/.zshrc"
+'5  98  15  ~/.zshrc
+|4,53,98,15,1533185303,"~/.zshrc"
+'6  98  15  ~/.zshrc
+|4,54,98,15,1533185303,"~/.zshrc"
+'7  15  0  ~/Projects/Memoria/notes
+|4,55,15,0,1533184331,"~/Projects/Memoria/notes"
+'8  15  0  ~/Projects/Memoria/notes
+|4,56,15,0,1533184206,"~/Projects/Memoria/notes"
+'9  25  0  ~/Projects/Memoria/notes
+|4,57,25,0,1533183996,"~/Projects/Memoria/notes"
 
 # Jumplist (newest first):
+-'  108  13  ~/.zshrc
+|4,39,108,13,1533348941,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1533348852,"~/.zshrc"
+-'  5  13  ~/.zshrc
+|4,39,5,13,1533348826,"~/.zshrc"
+-'  5  13  ~/.zshrc
+|4,39,5,13,1533348826,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1533348813,"~/.zshrc"
 -'  98  15  ~/.zshrc
 |4,39,98,15,1533185303,"~/.zshrc"
+-'  98  15  ~/.zshrc
+|4,39,98,15,1533185303,"~/.zshrc"
+-'  98  15  ~/.zshrc
+|4,39,98,15,1533185303,"~/.zshrc"
+-'  36  0  ~/.zshrc
+|4,39,36,0,1533185278,"~/.zshrc"
+-'  36  0  ~/.zshrc
+|4,39,36,0,1533185278,"~/.zshrc"
 -'  36  0  ~/.zshrc
 |4,39,36,0,1533185278,"~/.zshrc"
 -'  1  0  ~/.zshrc
@@ -160,6 +178,30 @@ $
 |4,39,15,0,1533184331,"~/Projects/Memoria/notes"
 -'  15  0  ~/Projects/Memoria/notes
 |4,39,15,0,1533184331,"~/Projects/Memoria/notes"
+-'  15  0  ~/Projects/Memoria/notes
+|4,39,15,0,1533184331,"~/Projects/Memoria/notes"
+-'  15  0  ~/Projects/Memoria/notes
+|4,39,15,0,1533184331,"~/Projects/Memoria/notes"
+-'  15  0  ~/Projects/Memoria/notes
+|4,39,15,0,1533184331,"~/Projects/Memoria/notes"
+-'  15  0  ~/Projects/Memoria/notes
+|4,39,15,0,1533184331,"~/Projects/Memoria/notes"
+-'  15  0  ~/Projects/Memoria/notes
+|4,39,15,0,1533184331,"~/Projects/Memoria/notes"
+-'  15  0  ~/Projects/Memoria/notes
+|4,39,15,0,1533184331,"~/Projects/Memoria/notes"
+-'  1  0  ~/Projects/Memoria/notes
+|4,39,1,0,1533184209,"~/Projects/Memoria/notes"
+-'  1  0  ~/Projects/Memoria/notes
+|4,39,1,0,1533184209,"~/Projects/Memoria/notes"
+-'  1  0  ~/Projects/Memoria/notes
+|4,39,1,0,1533184209,"~/Projects/Memoria/notes"
+-'  1  0  ~/Projects/Memoria/notes
+|4,39,1,0,1533184209,"~/Projects/Memoria/notes"
+-'  1  0  ~/Projects/Memoria/notes
+|4,39,1,0,1533184209,"~/Projects/Memoria/notes"
+-'  1  0  ~/Projects/Memoria/notes
+|4,39,1,0,1533184209,"~/Projects/Memoria/notes"
 -'  1  0  ~/Projects/Memoria/notes
 |4,39,1,0,1533184209,"~/Projects/Memoria/notes"
 -'  1  0  ~/Projects/Memoria/notes
@@ -168,6 +210,30 @@ $
 |4,39,15,0,1533184206,"~/Projects/Memoria/notes"
 -'  15  0  ~/Projects/Memoria/notes
 |4,39,15,0,1533184206,"~/Projects/Memoria/notes"
+-'  15  0  ~/Projects/Memoria/notes
+|4,39,15,0,1533184206,"~/Projects/Memoria/notes"
+-'  15  0  ~/Projects/Memoria/notes
+|4,39,15,0,1533184206,"~/Projects/Memoria/notes"
+-'  15  0  ~/Projects/Memoria/notes
+|4,39,15,0,1533184206,"~/Projects/Memoria/notes"
+-'  15  0  ~/Projects/Memoria/notes
+|4,39,15,0,1533184206,"~/Projects/Memoria/notes"
+-'  15  0  ~/Projects/Memoria/notes
+|4,39,15,0,1533184206,"~/Projects/Memoria/notes"
+-'  15  0  ~/Projects/Memoria/notes
+|4,39,15,0,1533184206,"~/Projects/Memoria/notes"
+-'  1  0  ~/Projects/Memoria/notes
+|4,39,1,0,1533184139,"~/Projects/Memoria/notes"
+-'  1  0  ~/Projects/Memoria/notes
+|4,39,1,0,1533184139,"~/Projects/Memoria/notes"
+-'  1  0  ~/Projects/Memoria/notes
+|4,39,1,0,1533184139,"~/Projects/Memoria/notes"
+-'  1  0  ~/Projects/Memoria/notes
+|4,39,1,0,1533184139,"~/Projects/Memoria/notes"
+-'  1  0  ~/Projects/Memoria/notes
+|4,39,1,0,1533184139,"~/Projects/Memoria/notes"
+-'  1  0  ~/Projects/Memoria/notes
+|4,39,1,0,1533184139,"~/Projects/Memoria/notes"
 -'  1  0  ~/Projects/Memoria/notes
 |4,39,1,0,1533184139,"~/Projects/Memoria/notes"
 -'  1  0  ~/Projects/Memoria/notes
@@ -180,6 +246,30 @@ $
 |4,39,35,0,1533184136,"~/Projects/Memoria/notes"
 -'  35  0  ~/Projects/Memoria/notes
 |4,39,35,0,1533184136,"~/Projects/Memoria/notes"
+-'  35  0  ~/Projects/Memoria/notes
+|4,39,35,0,1533184136,"~/Projects/Memoria/notes"
+-'  35  0  ~/Projects/Memoria/notes
+|4,39,35,0,1533184136,"~/Projects/Memoria/notes"
+-'  35  0  ~/Projects/Memoria/notes
+|4,39,35,0,1533184136,"~/Projects/Memoria/notes"
+-'  35  0  ~/Projects/Memoria/notes
+|4,39,35,0,1533184136,"~/Projects/Memoria/notes"
+-'  35  0  ~/Projects/Memoria/notes
+|4,39,35,0,1533184136,"~/Projects/Memoria/notes"
+-'  35  0  ~/Projects/Memoria/notes
+|4,39,35,0,1533184136,"~/Projects/Memoria/notes"
+-'  35  0  ~/Projects/Memoria/notes
+|4,39,35,0,1533184136,"~/Projects/Memoria/notes"
+-'  35  0  ~/Projects/Memoria/notes
+|4,39,35,0,1533184136,"~/Projects/Memoria/notes"
+-'  35  0  ~/Projects/Memoria/notes
+|4,39,35,0,1533184136,"~/Projects/Memoria/notes"
+-'  35  0  ~/Projects/Memoria/notes
+|4,39,35,0,1533184136,"~/Projects/Memoria/notes"
+-'  35  0  ~/Projects/Memoria/notes
+|4,39,35,0,1533184136,"~/Projects/Memoria/notes"
+-'  35  0  ~/Projects/Memoria/notes
+|4,39,35,0,1533184136,"~/Projects/Memoria/notes"
 -'  25  0  ~/Projects/Memoria/notes
 |4,39,25,0,1533183996,"~/Projects/Memoria/notes"
 -'  25  0  ~/Projects/Memoria/notes
@@ -192,6 +282,54 @@ $
 |4,39,25,0,1533183996,"~/Projects/Memoria/notes"
 -'  25  0  ~/Projects/Memoria/notes
 |4,39,25,0,1533183996,"~/Projects/Memoria/notes"
+-'  25  0  ~/Projects/Memoria/notes
+|4,39,25,0,1533183996,"~/Projects/Memoria/notes"
+-'  25  0  ~/Projects/Memoria/notes
+|4,39,25,0,1533183996,"~/Projects/Memoria/notes"
+-'  25  0  ~/Projects/Memoria/notes
+|4,39,25,0,1533183996,"~/Projects/Memoria/notes"
+-'  25  0  ~/Projects/Memoria/notes
+|4,39,25,0,1533183996,"~/Projects/Memoria/notes"
+-'  25  0  ~/Projects/Memoria/notes
+|4,39,25,0,1533183996,"~/Projects/Memoria/notes"
+-'  25  0  ~/Projects/Memoria/notes
+|4,39,25,0,1533183996,"~/Projects/Memoria/notes"
+-'  25  0  ~/Projects/Memoria/notes
+|4,39,25,0,1533183996,"~/Projects/Memoria/notes"
+-'  25  0  ~/Projects/Memoria/notes
+|4,39,25,0,1533183996,"~/Projects/Memoria/notes"
+-'  25  0  ~/Projects/Memoria/notes
+|4,39,25,0,1533183996,"~/Projects/Memoria/notes"
+-'  25  0  ~/Projects/Memoria/notes
+|4,39,25,0,1533183996,"~/Projects/Memoria/notes"
+-'  25  0  ~/Projects/Memoria/notes
+|4,39,25,0,1533183996,"~/Projects/Memoria/notes"
+-'  25  0  ~/Projects/Memoria/notes
+|4,39,25,0,1533183996,"~/Projects/Memoria/notes"
+-'  25  0  ~/Projects/Memoria/notes
+|4,39,25,0,1533183996,"~/Projects/Memoria/notes"
+-'  25  0  ~/Projects/Memoria/notes
+|4,39,25,0,1533183996,"~/Projects/Memoria/notes"
+-'  25  0  ~/Projects/Memoria/notes
+|4,39,25,0,1533183996,"~/Projects/Memoria/notes"
+-'  25  0  ~/Projects/Memoria/notes
+|4,39,25,0,1533183996,"~/Projects/Memoria/notes"
+-'  25  0  ~/Projects/Memoria/notes
+|4,39,25,0,1533183996,"~/Projects/Memoria/notes"
+-'  25  0  ~/Projects/Memoria/notes
+|4,39,25,0,1533183996,"~/Projects/Memoria/notes"
+-'  1  0  ~/Projects/Memoria/notes
+|4,39,1,0,1533183790,"~/Projects/Memoria/notes"
+-'  1  0  ~/Projects/Memoria/notes
+|4,39,1,0,1533183790,"~/Projects/Memoria/notes"
+-'  1  0  ~/Projects/Memoria/notes
+|4,39,1,0,1533183790,"~/Projects/Memoria/notes"
+-'  1  0  ~/Projects/Memoria/notes
+|4,39,1,0,1533183790,"~/Projects/Memoria/notes"
+-'  1  0  ~/Projects/Memoria/notes
+|4,39,1,0,1533183790,"~/Projects/Memoria/notes"
+-'  1  0  ~/Projects/Memoria/notes
+|4,39,1,0,1533183790,"~/Projects/Memoria/notes"
 -'  1  0  ~/Projects/Memoria/notes
 |4,39,1,0,1533183790,"~/Projects/Memoria/notes"
 -'  1  0  ~/Projects/Memoria/notes
@@ -212,152 +350,14 @@ $
 |4,39,1,0,1533183776,"~/.vimrc"
 -'  1  0  ~/.vimrc
 |4,39,1,0,1533183776,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1533183776,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1533183776,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1533183776,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1533183776,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1533183776,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1533183776,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1533183776,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1533183776,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  6  25  ~/.vimrc
-|4,39,6,25,1533183770,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1533183615,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1533183615,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1533183615,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1533183615,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1533183615,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1533183615,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1533183615,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1533183615,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1533183615,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1533183615,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1533183615,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1533183615,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1533183615,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1533183615,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1533183615,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1533183615,"~/.vimrc"
--'  2  18  ~/Projects/Memoria/secure
-|4,39,2,18,1533183193,"~/Projects/Memoria/secure"
--'  2  18  ~/Projects/Memoria/secure
-|4,39,2,18,1533183193,"~/Projects/Memoria/secure"
--'  2  18  ~/Projects/Memoria/secure
-|4,39,2,18,1533183193,"~/Projects/Memoria/secure"
--'  2  18  ~/Projects/Memoria/secure
-|4,39,2,18,1533183193,"~/Projects/Memoria/secure"
--'  2  18  ~/Projects/Memoria/secure
-|4,39,2,18,1533183193,"~/Projects/Memoria/secure"
--'  2  18  ~/Projects/Memoria/secure
-|4,39,2,18,1533183193,"~/Projects/Memoria/secure"
--'  2  18  ~/Projects/Memoria/secure
-|4,39,2,18,1533183193,"~/Projects/Memoria/secure"
--'  2  18  ~/Projects/Memoria/secure
-|4,39,2,18,1533183193,"~/Projects/Memoria/secure"
--'  2  18  ~/Projects/Memoria/secure
-|4,39,2,18,1533183193,"~/Projects/Memoria/secure"
--'  2  18  ~/Projects/Memoria/secure
-|4,39,2,18,1533183193,"~/Projects/Memoria/secure"
--'  2  18  ~/Projects/Memoria/secure
-|4,39,2,18,1533183193,"~/Projects/Memoria/secure"
--'  2  18  ~/Projects/Memoria/secure
-|4,39,2,18,1533183193,"~/Projects/Memoria/secure"
--'  2  18  ~/Projects/Memoria/secure
-|4,39,2,18,1533183193,"~/Projects/Memoria/secure"
 
 # History of marks within files (newest to oldest):
 
 > ~/.zshrc
-	*	1533185300	0
-	"	98	15
-	^	9	0
-	.	8	0
+	*	1533348939	0
+	"	108	13
+	^	5	14
+	.	5	13
 	+	100	41
 	+	101	47
 	+	102	13
@@ -372,6 +372,7 @@ $
 	+	108	20
 	+	106	33
 	+	8	0
+	+	5	13
 
 > ~/Projects/Memoria/notes
 	*	1533184330	0
